@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "My app",
+    "slug": "my-app",
+    "extra": {
+      "eas": {
+        "projectId": "c9a29000-6200-4846-b5f5-d7439f2d29cc"
+      }
+    },
+    "android": {
+      "package": "me.stedi"
+    }
+  }
+}
